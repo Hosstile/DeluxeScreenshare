@@ -1,0 +1,12 @@
+PREFIX: "&b&lScreenshare &8&l:"
+
+broadcastGlobal: false
+
+Broadcast-Message: "&b%player% &7has just frozen &b%target%"
+
+No-Permission: "&cYou have no permission to execute this command."
+
+UnScreensharing: "&7You are no longer screensharing &b%target%&7."
+Screensharing: "&7You are screensharing &b%target%&7."
+Frozen: "&cYou are frozen!"
+UnFrozen: "&cYou are unfrozen!"

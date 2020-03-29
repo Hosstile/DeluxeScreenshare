@@ -1,0 +1,7 @@
+name: Screenshare
+main: us.Screenshare.Screenshare
+version: 1.0
+author: Happy
+commands:
+   ss:
+   ssreload:
